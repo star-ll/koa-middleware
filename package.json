@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "koa": "^2.14.2",
+    "lerna": "^4.0.0"
+  }
+}
